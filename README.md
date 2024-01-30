@@ -5,14 +5,14 @@
 
 1.Additing the patients
 
-2.Print Patients Data
+2.View Patients Data
 
-3.get patient by using there id
+3.Get patient by using there id
 
-4.display the doctor data
+4.Display the doctor data
 
-5.get doctor by using there id
+5.Get doctor by using there id
 
-6.booked appointment if the doctor is available
+6.Booked appointment if the doctor is available
 
-7.it check doctor is available or not in specific date that user enter.
+7.It check doctor is available or not in specific date that user enter.
