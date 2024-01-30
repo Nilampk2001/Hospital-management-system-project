@@ -4,7 +4,9 @@
         This Hospital Management System in java language is a project for Hospitals having the following functionalities:
 
 1.Additing the patients
+
 2.Print Patients Data
+
 3.get patient by using there id
 4.display the doctor data
 5.get doctor by using there id
